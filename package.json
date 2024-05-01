@@ -1,0 +1,24 @@
+{
+  "name": "holygrail",
+  "version": "1.0.0",
+  "description": "node app for holy grail",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rkirk7/HolyGrail.git"
+  },
+  "author": "regan",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/rkirk7/HolyGrail/issues"
+  },
+  "homepage": "https://github.com/rkirk7/HolyGrail#readme",
+  "dependencies": {
+    "express": "^4.19.2",
+    "redis": "^3.1.2"
+  },
+  "devDependencies": {}
+}
